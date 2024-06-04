@@ -12,13 +12,13 @@ This is a campground booking website built using Node.js, MongoDB, EJS, and CSS.
 
 ## Technologies Used
 
-- **Node.js**: JavaScript runtime for server-side development.
-- **MongoDB**: NoSQL database used for storing campground and user data.
-- **EJS**: Embedded JavaScript templating language for rendering dynamic content in HTML pages.
-- **CSS**: Styling language for designing the user interface.
-- **Express.js**: Web application framework for Node.js used for routing and middleware.
-- **Passport.js**: Authentication middleware for Node.js used for user authentication.
-- **Heroku**: Cloud platform used for hosting the application.
+- Node.js: JavaScript runtime for server-side development.
+- MongoDB: NoSQL database used for storing campground and user data.
+- EJS: Embedded JavaScript templating language for rendering dynamic content in HTML pages.
+- CSS: Styling language for designing the user interface.
+- Express.js: Web application framework for Node.js used for routing and middleware.
+- Passport.js: Authentication middleware for Node.js used for user authentication.
+- Heroku: Cloud platform used for hosting the application.
 
 ## Installation
 
