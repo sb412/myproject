@@ -24,7 +24,7 @@ This is a campground booking website built using Node.js, MongoDB, EJS, and CSS.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/sb412/myproject.git
    cd your-repo
    ```
 
