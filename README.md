@@ -1,4 +1,3 @@
-```markdown
 # Campground Booking Website
 
 This is a campground booking website built using Node.js, MongoDB, EJS, and CSS.
